@@ -313,6 +313,12 @@ weight = 20
   weight = 20
 
   [[menu.overview]]
+  title = "Contributing"
+  identifier = "overview/community/contributing"
+  parent = "overview/community"
+  weight = 30
+
+  [[menu.overview]]
   title = "Packages & Platforms"
   identifier = "overview/packages_&_platforms"
   parent = "overview"
